@@ -1,9 +1,5 @@
 <?php
-/**
- * @Created by          : Waris Agung Widodo (ido.alit@gmail.com)
- * @Date                : 01/10/20 02.07
- * @File name           : DB.php
- */
+
 
 namespace SLiMS;
 
